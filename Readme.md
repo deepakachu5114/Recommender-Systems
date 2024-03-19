@@ -1,0 +1,13 @@
+Things to do
+- rule based
+- [ ] apriori
+- [ ] fp growth
+- [ ] eclat
+- deep learning methods
+- [ ] lstm
+- [ ] gru
+- classic
+- [ ] collaborative filtering
+- [ ] content based filtering
+- [ ] hybrid
+- [ ] 
