@@ -7,7 +7,7 @@ Things to do
 - [x] lstm
 - [x] gru
 - classic
-- [ ] collaborative filtering
-- [ ] content based filtering
+- [x] collaborative filtering
+- [x] content based filtering
 - [ ] hybrid
  
